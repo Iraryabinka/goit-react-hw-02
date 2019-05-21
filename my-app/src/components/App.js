@@ -1,6 +1,6 @@
 import React from 'react';
-import publications from '../publications.json';
-import Reader from './Reader/Reader';
+import publications from './FirstPart/publications.json';
+import Reader from './FirstPart/Reader/Reader';
 
 const App = () => (
   <div>
